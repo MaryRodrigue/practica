@@ -4,12 +4,13 @@
              x:Class="practica1.Views.Home2">
     <ContentPage.Content>
         <Grid>
-            <Label Text="Usted a ingresado a Sport Peru"/>
+            <Label  VerticalOptions="Start" TextColor="Black" Text="Usted a ingresado a Sport Peru"/>
             <Image Grid.Row="0" Grid.Column="0"  Source="https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/tarhmadzucbnqb8wzhsg"/>
             <Image Grid.Row="0" Grid.Column="1"  Source="https://acrocarpus.com/wp-content/uploads/2018/03/Deportivo-1024x684.jpg"/>
             <Image Grid.Row="1" Grid.Column="0"  Source="https://perugrass.com/wp-content/uploads/2020/07/peru-grass-sintetico-deportivo-proyecto-futbito-6-supe.jpg"/>
             <Image Grid.Row="1" Grid.Column="1"  Source="https://cooperativalaluz.org/wp-content/uploads/2023/07/alquiler-de-campo-deportivo-cooperativa-la-luz.jpg"/>
-
+            <Button Grid.Row="2" Grid.Column="0" BackgroundColor="Blue" Text="Ingresa"/>
+            <Button Grid.Row="2" Grid.Column="1" BackgroundColor="red" Text="Eliminar"/>
 
         </Grid>
     </ContentPage.Content>

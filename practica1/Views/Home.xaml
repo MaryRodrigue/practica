@@ -14,10 +14,13 @@
                 <StackLayout>
                     <Image Source="https://st3.depositphotos.com/9880800/15061/i/450/depositphotos_150617900-stock-photo-soccer-ball-on-grass.jpg"/>
                     <Label TextColor="Black" Text="Usuario"/>
-                    <Entry Keyboard="Numeric" PlaceholderColor="Gray" Placeholder="Ingrese su Usuario"/>
-                    <Button x:Name="btnGuardar" Clicked="btnGuardar_Clicked" Text="Guardar" CornerRadius="40" BackgroundColor="#7DED34" />
+                    <Entry Keyboard="Text" PlaceholderColor="Gray" Placeholder="Ingrese su Usuario"/>
+                    <Button x:Name="btnGuardar" Clicked="btnGuardar_Clicked" Text="Guardar" CornerRadius="40" BackgroundColor="Red" />
+                
                 </StackLayout>
+              
             </Frame>
+               
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
