@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="practica1.Views.Home2">
+    <ContentPage.Content>
+        <Grid>
+            <Label Text="Usted a ingresado a Sport Peru"/>
+            <Image Grid.Row="0" Grid.Column="0"  Source="https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/tarhmadzucbnqb8wzhsg"/>
+            <Image Grid.Row="0" Grid.Column="1"  Source="https://acrocarpus.com/wp-content/uploads/2018/03/Deportivo-1024x684.jpg"/>
+            <Image Grid.Row="1" Grid.Column="0"  Source="https://perugrass.com/wp-content/uploads/2020/07/peru-grass-sintetico-deportivo-proyecto-futbito-6-supe.jpg"/>
+            <Image Grid.Row="1" Grid.Column="1"  Source="https://cooperativalaluz.org/wp-content/uploads/2023/07/alquiler-de-campo-deportivo-cooperativa-la-luz.jpg"/>
+
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

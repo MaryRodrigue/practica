@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="practica1.Views.Home">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="BIENVENIDO A SPORT PERU"
+                HorizontalOptions="Center"
+                TextColor="blue"
+                FontAttributes="Bold"
+             />
+            <Frame CornerRadius="30">
+
+                <StackLayout>
+                    <Image Source="https://st3.depositphotos.com/9880800/15061/i/450/depositphotos_150617900-stock-photo-soccer-ball-on-grass.jpg"/>
+                    <Label TextColor="Black" Text="Usuario"/>
+                    <Entry Keyboard="Numeric" PlaceholderColor="Gray" Placeholder="Ingrese su Usuario"/>
+                    <Button x:Name="btnGuardar" Clicked="btnGuardar_Clicked" Text="Guardar" CornerRadius="40" BackgroundColor="#7DED34" />
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

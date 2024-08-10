@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\XAMARI\\practica1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36C22D4C-5DD5-4516-9D39-579999B31BDE}|practica1\\practica1.csproj|d:\\xamari\\practica1\\practica1\\views\\home2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{36C22D4C-5DD5-4516-9D39-579999B31BDE}|practica1\\practica1.csproj|solutionrelative:practica1\\views\\home2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C22D4C-5DD5-4516-9D39-579999B31BDE}|practica1\\practica1.csproj|d:\\xamari\\practica1\\practica1\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C22D4C-5DD5-4516-9D39-579999B31BDE}|practica1\\practica1.csproj|solutionrelative:practica1\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C22D4C-5DD5-4516-9D39-579999B31BDE}|practica1\\practica1.csproj|d:\\xamari\\practica1\\practica1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C22D4C-5DD5-4516-9D39-579999B31BDE}|practica1\\practica1.csproj|solutionrelative:practica1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C22D4C-5DD5-4516-9D39-579999B31BDE}|practica1\\practica1.csproj|d:\\xamari\\practica1\\practica1\\views\\home2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C22D4C-5DD5-4516-9D39-579999B31BDE}|practica1\\practica1.csproj|solutionrelative:practica1\\views\\home2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C22D4C-5DD5-4516-9D39-579999B31BDE}|practica1\\practica1.csproj|d:\\xamari\\practica1\\practica1\\views\\home.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{36C22D4C-5DD5-4516-9D39-579999B31BDE}|practica1\\practica1.csproj|solutionrelative:practica1\\views\\home.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home2.xaml.cs",
+              "DocumentMoniker": "D:\\XAMARI\\practica1\\practica1\\Views\\Home2.xaml.cs",
+              "RelativeDocumentMoniker": "practica1\\Views\\Home2.xaml.cs",
+              "ToolTip": "D:\\XAMARI\\practica1\\practica1\\Views\\Home2.xaml.cs",
+              "RelativeToolTip": "practica1\\Views\\Home2.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:59:50.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home2.xaml",
+              "DocumentMoniker": "D:\\XAMARI\\practica1\\practica1\\Views\\Home2.xaml",
+              "RelativeDocumentMoniker": "practica1\\Views\\Home2.xaml",
+              "ToolTip": "D:\\XAMARI\\practica1\\practica1\\Views\\Home2.xaml",
+              "RelativeToolTip": "practica1\\Views\\Home2.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-10T17:59:45.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "D:\\XAMARI\\practica1\\practica1\\Views\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "practica1\\Views\\Home.xaml.cs",
+              "ToolTip": "D:\\XAMARI\\practica1\\practica1\\Views\\Home.xaml.cs",
+              "RelativeToolTip": "practica1\\Views\\Home.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:41:08.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\XAMARI\\practica1\\practica1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "practica1\\App.xaml.cs",
+              "ToolTip": "D:\\XAMARI\\practica1\\practica1\\App.xaml.cs",
+              "RelativeToolTip": "practica1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:39:45.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "D:\\XAMARI\\practica1\\practica1\\Views\\Home.xaml",
+              "RelativeDocumentMoniker": "practica1\\Views\\Home.xaml",
+              "ToolTip": "D:\\XAMARI\\practica1\\practica1\\Views\\Home.xaml",
+              "RelativeToolTip": "practica1\\Views\\Home.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-10T17:39:07.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
